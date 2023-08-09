@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kourdroid
-- 👀 I’m interested in automations and bbots
-- 🌱 I’m currently learning Puthon
+- 👀 I’m interested in automations and bots
+- 🌱 I’m currently learning Python
 
 
 <!---
