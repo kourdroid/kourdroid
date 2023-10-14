@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @kourdroid
-- 👀 I’m interested in automations and bots
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Mehdi Kourchal
+- 👀 I’m interested in automations, bots, and front-end development
+- 🌱 I’m currently learning Python and Flask
+
+💡 Proficient in HTML, CSS, and Tailwind CSS for creating stunning and responsive user interfaces. Currently honing my skills in JavaScript for dynamic web applications. Also, delving into Python and Flask for back-end development.
+
+Let's keep coding and building amazing things! 🛠️
 
 
 <!---
