@@ -1,4 +1,4 @@
-!(/github_banner.png)
+![github_banner.png](/github_banner.png)
 
 - 👋 Hi, I’m Mehdi Kourchal
 - 👀 I’m interested in automations, bots, and front-end development
