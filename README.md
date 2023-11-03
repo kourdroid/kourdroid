@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m Mehdi Kourchal
 - 👀 I’m interested in automations, bots, and front-end development
-- 🌱 I’m currently learning Python and Flask
+- 🌱 I’m currently learning React and Next.js
 
-💡 Proficient in HTML, CSS, and Tailwind CSS for creating stunning and responsive user interfaces. Currently honing my skills in JavaScript for dynamic web applications. Also, delving into Python and Flask for back-end development.
+💡 Proficient in HTML, CSS, and Tailwind CSS, javascript for creating stunning and responsive user interfaces. Currently honing my skills in JavaScript for dynamic web applications. Also, delving into Python and Flask for back-end development.
 
 Let's keep coding and building amazing things! 🛠️
 
