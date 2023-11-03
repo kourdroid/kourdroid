@@ -1,3 +1,5 @@
+!(/github_banner.png)
+
 - 👋 Hi, I’m Mehdi Kourchal
 - 👀 I’m interested in automations, bots, and front-end development
 - 🌱 I’m currently learning Python and Flask
