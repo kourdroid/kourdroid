@@ -1,5 +1,5 @@
 # EL MEHDI
-### LEAD FULL STACK ENGINEER & ARCHITECT | CO-FOUNDER AT KALIITS
+### LEAD FULL STACK ENGINEER & ARCHITECT
 
 > OPERATIONAL STATUS
 > - Architecting automated AI agents and business-logic systems.
@@ -20,7 +20,6 @@
 
 ## CURRENT DEPLOYMENTS
 
-- **KALIITS** (Co-Founder)
 - **SMATCH DIGITAL** (Agency Operations)
 
 ***
