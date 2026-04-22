@@ -20,11 +20,11 @@
 
 ## CURRENT DEPLOYMENTS
 
-- **SMATCH DIGITAL** (Agency Operations) [smatch.ma](www.smatch.ma)
+- **SMATCH DIGITAL** (Agency Operations) [smatch.ma](https://www.smatch.ma)
 
 ***
 
 ## COMM_LINK
 
-- [PORTFOLIO_NEXUS](https://www.kourchal.com)
+- [PORTFOLIO_NEXUS](https://kourchal.vercel.app)
 - [LINKEDIN_UPLINK](https://linkedin.com/in/mehdi-kourchal-70495427b)
