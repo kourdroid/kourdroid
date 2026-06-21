@@ -34,5 +34,5 @@
 ## COMM_LINK
 
 - [PORTFOLIO_NEXUS](https://kourchal.com)
-- [LINKEDIN_UPLINK]((https://www.linkedin.com/in/mehdi-kourchal)
+- [LINKEDIN_UPLINK](https://www.linkedin.com/in/mehdi-kourchal)
 - [GITHUB_UPLINK](https://github.com/kourdroid)
