@@ -14,11 +14,11 @@
 
 | LAYER | TECHNOLOGY NODE |
 | :--- | :--- |
-| **CORE LOGIC & BACKEND** | ⟪CONFIRM⟫ Go, C#, .NET — or Python / Node, matching OCRAgent & SAQR stack? |
+| **CORE LOGIC & BACKEND** | Go, Python, Node |
 | **FRONTEND & UI** | Next.js, React Native (Expo) |
 | **DATABASE ARCHITECTURE** | PostgreSQL, Supabase, Redis Streams, Vector Databases |
 | **AI ENGINEERING** | n8n, LangGraph, RAG pipelines, agentic workflows |
-| **OBSERVABILITY** | ⟪CONFIRM⟫ LangSmith, Arize Phoenix — actively used or aspirational? |
+| **OBSERVABILITY** | LangSmith, Arize Phoenix |
 
 ---
 
